@@ -1,7 +1,7 @@
 # SOLID Principles
 
 
-##Understand the SOLID principles using the simple of an e-commerce application example
+## Understand the SOLID principles using the simple of an e-commerce application example
 
 Suppose we have an e-commerce application that allows users to purchase products from a catalog. We want to make sure our code is well-designed, maintainable, and scalable. Here's how we can apply the SOLID principles:
 
