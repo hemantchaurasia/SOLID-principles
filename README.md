@@ -1,11 +1,11 @@
 # SOLID Principles
 
 
-## Understand the SOLID principles using the simple of an e-commerce application example
+## Understand the SOLID principles using the example of an e-commerce application:
 
 Suppose we have an e-commerce application that allows users to purchase products from a catalog. We want to make sure our code is well-designed, maintainable, and scalable. Here's how we can apply the SOLID principles:
 
-<font size="5" color="Red">**S**</font><b>ingle Responsibility Principle (SRP):</b> A class should have only one reason to change. This principle suggests that a class should have only one responsibility or job. This way, if there is a change required in one aspect of the code, it will not affect the other unrelated aspects.
+<font size="5" color="Red"> **S** </font><b>ingle Responsibility Principle (SRP):</b> A class should have only one reason to change. This principle suggests that a class should have only one responsibility or job. This way, if there is a change required in one aspect of the code, it will not affect the other unrelated aspects.
 
 Ex:
 We create a class called <font color="cyan">**ProductCatalog**</font> that is responsible for managing the products in the catalog. This class should have only one responsibility: to manage the products. It should not be responsible for handling orders, managing customers, or any other unrelated tasks.
