@@ -38,7 +38,7 @@ We create an interface called **_IOrderProcessor_** that has a single method cal
 
 
 
-###Dependency Inversion Principle (DIP): 
+### Dependency Inversion Principle (DIP): 
 High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend on details. Details should depend on abstractions. This principle suggests that you should write your code in a way that high-level modules depend on abstractions rather than on low-level modules.
 
 **Example:**
