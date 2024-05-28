@@ -10,7 +10,7 @@ Suppose we have an e-commerce application that allows users to purchase products
 A class should have only one reason to change. This principle suggests that a class should have only one responsibility or job. This way, if there is a change required in one aspect of the code, it will not affect the other unrelated aspects.
 
 **Example:**
-We create a class called **_ProductCatalog_** that is responsible for managing the products in the catalog. This class should have only one responsibility: to manage the products. It should not be responsible for handling orders, managing customers, or any other unrelated tasks.
+We create a class called **_ProductCatalog_** that is responsible for managing the products in the catalog. This class should have only one responsibility to manage the products. It should not be responsible for handling orders, managing customers, or any other unrelated tasks.
 
 
 
